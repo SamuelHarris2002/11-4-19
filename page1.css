@@ -11,12 +11,7 @@ header{
     color: white;
     font-size: 0.8in;
 }
-nav.horizontalNavigation li{
-    display:block;
-    float: left;
- }
- nav.horizontalNavigation a{
-    display:block;
-    text-align: center;
- }
- 
+nav a{
+    color: gold;
+    text-decoration: none;
+}
